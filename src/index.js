@@ -7,7 +7,7 @@ ReactDOM.render(
   <div>
     <App />
     <a className="github-fork-ribbon"
-      href="https://github.com/JithuTholoor/RubixCube"
+      href="https://github.com/DurgaPrashad/Rubix-3D"
       data-ribbon="Fork me on GitHub" title="Fork me on GitHub">3*3</a>
   </div>,
   document.getElementById('root')
